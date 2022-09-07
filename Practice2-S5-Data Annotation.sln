@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2-S5-Data Annotation", "Practice2-S5-Data Annotation\Practice2-S5-Data Annotation.csproj", "{1BEDD477-28BF-42B3-A771-2B79DC993EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BEDD477-28BF-42B3-A771-2B79DC993EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BEDD477-28BF-42B3-A771-2B79DC993EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BEDD477-28BF-42B3-A771-2B79DC993EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BEDD477-28BF-42B3-A771-2B79DC993EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C04D2CCF-BE54-44B0-AB3C-A6DAB28B7FE6}
+	EndGlobalSection
+EndGlobal
